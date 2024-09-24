@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cuamo",
+    "texture": "2b92de42-bde8-497e-9894-a2100d0fd7db",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      216,
+      645
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      216,
+      645
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
